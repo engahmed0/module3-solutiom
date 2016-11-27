@@ -68,6 +68,11 @@ font-family: 'Bungee Inline', cursive; }
 	padding:15px;
     font-family: 'Fjalla One', sans-serif;
 }
+.container .box h3 {
+	text-align:center;
+	color:#000;
+	font-size:30px;
+	margin:15px; }
 /* END HOME PAGE */
 /********** Large devices only **********/
 @media (min-width: 1200px) {
